@@ -1,19 +1,121 @@
-<h1 align="center">Hola 👋, Soy Samuel Bonifacio</h1>
-<h3 align="center">Un desarrollador Frontend de Lima Peru🇵🇪</h3>
+<!--
+<div align="center">
+  <a href="#">
+    <img 
+      width="100%" 
+      src="https://capsule-render.vercel.app/api?type=waving&color=FFA500&height=120&section=header&text=&fontSize=30&fontColor=000000&animation=twinkling"
+    />
+  </a>
+  <br>
+-->
 
-<p align="left"> <a href="https://twitter.com/onlydexsamuh" target="blank"><img src="https://img.shields.io/twitter/follow/onlydexsamuh?logo=twitter&style=for-the-badge" alt="onlydexsamuh" /></a> </p>
-
-- 🔭 Estoy actualmente trabajando en [Libreria JSR](https://github.com/samuelbonifacio015/JSR-Libreria)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/onlydexsamuh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="onlydexsamuh" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/samuel bonifacio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samuel bonifacio" height="30" width="40" /></a>
-<a href="https://instagram.com/_ssamuelito" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_ssamuelito" height="30" width="40" /></a>
+<!--
+<p align="center">
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&color=FFD700&height=80&section=footer"
+    width="100%" 
+  />
 </p>
+-->
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> </p>
+<!-- MasterHead -->
+<a href="https://github.com/samuelbonifacio015/samuelbonifacio015/blob/main/lofi.gif">
+  <img src="https://github.com/samuelbonifacio015/samuelbonifacio015/blob/main/lofi.gif" alt="Lofi GIF" style="width:auto; height:auto"/>
+</a>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=samuelbonifacio015&show_icons=true&locale=en&layout=compact" alt="samuelbonifacio015" /></p>
+<!--<h1 align="left">
+<img width="100%" src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=40&center=true&vCenter=true&width=800&height=70&duration=4000&lines=Hello!+👋;+MASTERJUDAH+here+🔥+!;"  alt="Typing Animation" style="width:100%"/>-->
 
+<!-- Greeting -->
+</h1>
+<h1 align="center">Hi 👋, I'm Samuel</h1>
+
+<h4 align="left">🌟Since I was 17, I like to work on Front-end development and web designing. While Pursuing my degree in software engineer and I currently like to work in my development skills.</h4>
+
+ <div align="center">
+<a href="https://api.github-star-counter.workers.dev/user/samuelbonifacio015">
+  <img width="115px" 
+       alt="Total stars" 
+       title="Total stars on GitHub" 
+       src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=318CE7&labelColor=505050&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/samuelbonifacio015" /></a>
+<a href="https://github.com/samuelbonifacio015?tab=followers">
+  <img width="147px" 
+       alt="Followers" 
+       title="Follow me on GitHub" 
+       src="https://custom-icon-badges.herokuapp.com/github/followers/samuelbonifacio015?color=318CE7&labelColor=505050&style=for-the-badge&logo=person-add&label=Followers&logoColor=white" /></a>
+ </div>
+
+<!-- about me -->
+ <h3 align="left">📚 About Me</h3>
+
+ <!--<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<div align="left">-->
+<h4> 
+  🌱 I am currently working on my Web Development Skills.</br>
+ 💬 Skills I acquire in programming languages such as Python, C++, JavaScript.</br>
+ ⚡ Interest in Artifical Intelligence, Machine Learning, Deep Learning, Data Science, Automation, BlockChain development, Web Development.</br>
+ ✨ I like to read documentation to increase my knowledge in this beatiful world.</h4> <div align="left"> 
+
+   <h3>🧲 Connect me :</h3>
+<a href="mailto:samuelbonifacio015@gmail.com"><img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail" /></a> 
+  <a href="https://www.linkedin.com/in/samuel-bonifacio-208a37364/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BFxu5Jm6MQU2szDeuwmZmyQ%3D%3D" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> 
+
+<!-- git stats-->
+<h3 align="center">⚡ Github Status</h3>
+<br>
+<div align="center">
+<img width="405" src="https://github-readme-stats.vercel.app/api?username=samuelbonifacio015&count_private=true&show_icons=true&theme=default&rank_icon=github&border_radius=10"/>
+
+  <img width="310" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelbonifacio015&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages">
+</div>
+
+<br/><br/>
+
+<!-- lang-->
+
+<div align="center">
+<h3>Programming Languages Stack</h3>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,nodejs,python,typescript,golang,c,cpp,cs" />
+  </a>
+  
+</div>
+
+<div align="center">
+<h3>Frontend Stack</h3>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,react" />
+  </a>
+</div>
+
+<div align="center">
+<h3>Frontend UI Frameworks/Libraries</h3>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,materialui,styledcomponents" />
+    <a>
+</div>
+
+<div align="center">
+<h3>Project Managment Stack</h3>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,gitlab" />
+    <a>
+</div>
+
+<div align="center">
+<h3>External Aplications</h3>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=notion,figma,vscode" />
+    <a>
+</div>
+
+<div align="center">
+<h2>Thanks for visiting my profile!</h2>
+</div>
+
+<!-- ending-->
+<a href="https://github.com/samuelbonifacio015/samuelbonifacio015/blob/main/coding.gif"><img src="https://github.com/samuelbonifacio015/samuelbonifacio015/blob/main/coding.gif" alt="Coding GIF" style="width:auto; height:auto"/></a>
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=0.4/>
+
+<p>⚠️ README creado por  <strong>samuelbonifacio015</strong>.
