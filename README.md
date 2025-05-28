@@ -48,8 +48,8 @@
 <h4> 
   🌱 I am currently working on my Web Development Skills.</br>
  💬 Skills I acquire in programming languages such as Python, C++, JavaScript.</br>
- ⚡ Interest in Artifical Intelligence, Machine Learning, Deep Learning, Data Science, Automation, BlockChain development, Web Development.</br>
- ✨ I like to read documentation to increase my knowledge in this beatiful world.</h4> <div align="left"> 
+ ⚡ Interest in Artifical Intelligence, Data Science, Automation, Web Development.</br>
+ ✨ Also I like to read and create documentation to increase my knowledge.</h4> <div align="left"> 
 
    <h3>🧲 Connect me :</h3>
 <a href="mailto:samuelbonifacio015@gmail.com"><img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail" /></a> 
