@@ -25,7 +25,7 @@
 </h1>
 <h1 align="center">Hi 👋, I'm Samuel</h1>
 
-<h4 align="left">🌟Since I was 17, I like to work on Front-end development and web designing. While Pursuing my degree in software engineer and I currently like to work in my development skills.</h4>
+<h4 align="left">🌟Since I was 17, I like to work on Front-end development and web designing. While pursuing my degree in software engineer and I currently like to work in my development skills.</h4>
 
  <div align="center">
 <a href="https://api.github-star-counter.workers.dev/user/samuelbonifacio015">
