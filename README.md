@@ -1,8 +1,8 @@
 <!--
 <div align="center">
   <a href="#">
-    <img 
-      width="100%" 
+    <img
+      width="100%"
       src="https://capsule-render.vercel.app/api?type=waving&color=FFA500&height=120&section=header&text=&fontSize=30&fontColor=000000&animation=twinkling"
     />
   </a>
@@ -11,9 +11,9 @@
 
 <!--
 <p align="center">
-  <img 
+  <img
     src="https://capsule-render.vercel.app/api?type=waving&color=FFD700&height=80&section=footer"
-    width="100%" 
+    width="100%"
   />
 </p>
 -->
@@ -49,11 +49,11 @@
   🌱 I am currently working on my Web Development Skills.</br>
  💬 Skills I acquire in programming languages such as Python, C++, JavaScript.</br>
  ⚡ Interest in Artifical Intelligence, Data Science, Automation, Web Development.</br>
- ✨ Also I like to read and create documentation to increase my knowledge.</h4> <div align="left"> 
+ ✨ Also I like to read and create documentation to increase my knowledge.</h4> <div align="left">
 
    <h3>🧲 Connect me :</h3>
 <a href="mailto:samuelbonifacio015@gmail.com"><img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail" /></a> 
-  <a href="https://www.linkedin.com/in/samuel-bonifacio-208a37364/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BFxu5Jm6MQU2szDeuwmZmyQ%3D%3D" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> 
+  <a href="https://www.linkedin.com/in/samuel-bonifacio-208a37364/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BFxu5Jm6MQU2szDeuwmZmyQ%3D%3D" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 
 <!-- git stats-->
 <h3 align="center">⚡ Github Status</h3>
@@ -79,7 +79,7 @@
 <div align="center">
 <h3>Frontend Stack</h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,react" />
+    <img src="https://skillicons.dev/icons?i=html,css,react,vue" />
   </a>
 </div>
 
@@ -91,9 +91,23 @@
 </div>
 
 <div align="center">
+<h3>Backend Stack</h3>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=flask" />
+    <a>
+</div>
+
+<div align="center">
+<h3>Database Stack</h3>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+    <a>
+</div>
+
+<div align="center">
 <h3>Project Managment Stack</h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,gitlab" />
+    <img src="https://skillicons.dev/icons?i=git,github,docker" />
     <a>
 </div>
 
@@ -109,6 +123,7 @@
 </div>
 
 <!-- ending-->
+
 <a href="https://github.com/samuelbonifacio015/samuelbonifacio015/blob/main/coding.gif"><img src="https://github.com/samuelbonifacio015/samuelbonifacio015/blob/main/coding.gif" alt="Coding GIF" style="width:auto; height:auto"/></a>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=0.4/>
