@@ -79,7 +79,7 @@
 <div align="center">
 <h3>Frontend Stack</h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,react,vue" />
+    <img src="https://skillicons.dev/icons?i=html,css,react,vue,angular" />
   </a>
 </div>
 
