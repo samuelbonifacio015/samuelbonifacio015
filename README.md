@@ -47,7 +47,7 @@
 <div align="left">-->
 <h4> 
   🌱 I am currently working on my Web Development Skills.</br>
- 💬 Skills I acquire in programming languages such as Python, C++, JavaScript.</br>
+ 💬 Skills I acquire in programming languages such as Java, C++, JavaScript.</br>
  ⚡ Interest in Artifical Intelligence, Data Science, Automation, Web Development.</br>
  ✨ Also I like to read and create documentation to increase my knowledge.</h4> <div align="left">
 
@@ -71,7 +71,7 @@
 <div align="center">
 <h3>Programming Languages Stack</h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,nodejs,python,typescript,golang,c,cpp,cs" />
+    <img src="https://skillicons.dev/icons?i=js,nodejs,python,typescript,golang,java,cpp,cs" />
   </a>
   
 </div>
