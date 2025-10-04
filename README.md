@@ -1,31 +1,8 @@
-<!--
-<div align="center">
-  <a href="#">
-    <img
-      width="100%"
-      src="https://capsule-render.vercel.app/api?type=waving&color=FFA500&height=120&section=header&text=&fontSize=30&fontColor=000000&animation=twinkling"
-    />
-  </a>
-  <br>
--->
-
-<!--
-<p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=FFD700&height=80&section=footer"
-    width="100%"
-  />
-</p>
--->
-
-<!--<h1 align="left">
-<img width="100%" src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=40&center=true&vCenter=true&width=800&height=70&duration=4000&lines=Hello!+👋;+MASTERJUDAH+here+🔥+!;"  alt="Typing Animation" style="width:100%"/>-->
-
 <!-- Greeting -->
 </h1>
-<h1 align="center">Hi 👋, I'm Samuel</h1>
+<h1 align="center">Hi , I'm Samuel</h1>
 
-<h4 align="left">🌟Since I was 17, I like to work on Front-end development and web designing. While pursuing my degree in software engineer and I currently like to work in my development skills.</h4>
+<h4 align="left">Since I was 17, I like to work on Front-end development and web designing. While pursuing my degree in software engineer and I currently like to work in my development skills.</h4>
 
  <div align="center">
 <a href="https://api.github-star-counter.workers.dev/user/samuelbonifacio015">
@@ -41,17 +18,20 @@
  </div>
 
 <!-- about me -->
- <h3 align="left">📚 About Me</h3>
+## About Me
 
  <!--<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 <div align="left">-->
-<h4> 
-  🌱 I am currently working on my Web Development Skills.</br>
- 💬 Skills I acquire in programming languages such as Java, C++, JavaScript.</br>
- ⚡ Interest in Artifical Intelligence, Data Science, Automation, Web Development.</br>
- ✨ Also I like to read and create documentation to increase my knowledge.</h4> <div align="left">
 
-   <h3>🧲 Connect me :</h3>
+```javascript
+const Samuel = {
+  role: "Software Engineer",
+  focus: "Full Stack Development",
+  passion: "Building new applications & learning new technologies"
+};
+```
+
+## Contact
 <a href="mailto:samuelbonifacio015@gmail.com"><img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail" /></a> 
   <a href="https://www.linkedin.com/in/samuel-bonifacio-208a37364/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BFxu5Jm6MQU2szDeuwmZmyQ%3D%3D" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 
@@ -128,4 +108,4 @@
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=0.4/>
 
-<p>⚠️ README creado por  <strong>samuelbonifacio015</strong>.
+<p>README by <strong>samuelbonifacio015</strong>.
