@@ -37,10 +37,10 @@ const Samuel = {
 
 <div align="center">
   <h3>Languages & Frameworks</h3>
-  <img src="https://skillicons.dev/icons?i=js,nodejs,python,typescript,golang,java,cpp,cs,html,css,react,vue,angular,tailwind,bootstrap,materialui,styledcomponents,flask" />
+  <img src="https://skillicons.dev/icons?i=js,nodejs,typescript,python,java,spring,cpp,cs,dotnet,html,css,react,vue,angular,tailwind" />
   
   <h3>Tools & Databases</h3>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,git,github,docker,notion,figma,vscode" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,git,github,docker,notion,figma,vscode,linux,bash" />
 </div>
 
 <div align="center">
@@ -50,5 +50,7 @@ const Samuel = {
 <!-- ending-->
 
 <a href="https://github.com/samuelbonifacio015/samuelbonifacio015/blob/main/coding.gif"><img src="https://github.com/samuelbonifacio015/samuelbonifacio015/blob/main/coding.gif" alt="Coding GIF" style="width:auto; height:auto"/></a>
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=0.4/>
 
 <p align="center">README by <strong>samuelbonifacio015</strong></p>
