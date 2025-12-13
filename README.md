@@ -47,14 +47,8 @@ const Samuel = {
   <h2>Thanks for visiting my profile!</h2>
 </div>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/samuelbonifacio015/samuelbonifacio015/main/coding.gif" alt="Coding GIF" width="600"/>
-</div>
-
 <!-- ending-->
 
 <a href="https://github.com/samuelbonifacio015/samuelbonifacio015/blob/main/coding.gif"><img src="https://github.com/samuelbonifacio015/samuelbonifacio015/blob/main/coding.gif" alt="Coding GIF" style="width:auto; height:auto"/></a>
-
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=0.4/>
 
 <p align="center">README by <strong>samuelbonifacio015</strong></p>
