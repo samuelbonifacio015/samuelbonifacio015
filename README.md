@@ -1,14 +1,5 @@
 <h1 align="center">Hi, I'm Samuel</h1>
 
-<div align="center">
-  <a href="https://api.github-star-counter.workers.dev/user/samuelbonifacio015">
-    <img alt="Total stars" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=318CE7&labelColor=505050&label=Stars&style=flat-square&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/samuelbonifacio015" />
-  </a>
-  <a href="https://github.com/samuelbonifacio015?tab=followers">
-    <img alt="Followers" src="https://custom-icon-badges.herokuapp.com/github/followers/samuelbonifacio015?color=318CE7&labelColor=505050&style=flat-square&logo=person-add&label=Followers&logoColor=white" />
-  </a>
-</div>
-
 ## About Me
 
 ```javascript
@@ -21,6 +12,15 @@ const Samuel = {
   ]
 };
 ```
+
+<div align="center">
+  <a href="https://api.github-star-counter.workers.dev/user/samuelbonifacio015">
+    <img alt="Total stars" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=318CE7&labelColor=505050&label=Stars&style=flat-square&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/samuelbonifacio015" />
+  </a>
+  <a href="https://github.com/samuelbonifacio015?tab=followers">
+    <img alt="Followers" src="https://custom-icon-badges.herokuapp.com/github/followers/samuelbonifacio015?color=318CE7&labelColor=505050&style=flat-square&logo=person-add&label=Followers&logoColor=white" />
+  </a>
+</div>
 
 ## Contact
 
