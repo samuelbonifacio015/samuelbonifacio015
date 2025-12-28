@@ -1,7 +1,5 @@
 <h1 align="center">Hi, I'm Samuel</h1>
 
-<h4 align="left">I started my journey in frontend development at 17. Now, I work as a full-stack developer, delivering scalable, future-ready software that creates real value for users.</h4>
-
 <div align="center">
   <a href="https://api.github-star-counter.workers.dev/user/samuelbonifacio015">
     <img alt="Total stars" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=318CE7&labelColor=505050&label=Stars&style=flat-square&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/samuelbonifacio015" />
@@ -17,7 +15,10 @@
 const Samuel = {
   role: "Software Engineer",
   focus: "Full Stack Development",
-  passion: "Building new applications & learning new technologies"
+  current: [
+    "Mastering ASP.NET for production-grade REST APIs",
+    "Building cross-paltform mobile apps with Flutter"
+  ]
 };
 ```
 
@@ -46,8 +47,6 @@ const Samuel = {
 <div align="center">
   <h2>Thanks for visiting my profile!</h2>
 </div>
-
-<!-- ending-->
 
 <a href="https://github.com/samuelbonifacio015/samuelbonifacio015/blob/main/coding.gif"><img src="https://github.com/samuelbonifacio015/samuelbonifacio015/blob/main/coding.gif" alt="Coding GIF" style="width:auto; height:auto"/></a>
 
