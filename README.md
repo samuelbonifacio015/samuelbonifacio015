@@ -8,7 +8,7 @@ const Samuel = {
   focus: "Full Stack Development",
   current: [
     "Mastering ASP.NET for production-grade REST APIs",
-    "Building cross-paltform mobile apps with Flutter"
+    "Building cross-platform mobile apps with Flutter"
   ]
 };
 ```
