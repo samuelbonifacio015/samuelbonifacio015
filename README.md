@@ -7,7 +7,7 @@ const Samuel = {
   role: "Software Engineer",
   focus: "Full Stack Development",
   current: [
-    "Mastering ASP.NET for production-grade REST APIs",
+    "Researching about ML & LLM",
     "Building cross-platform mobile apps with Flutter"
   ]
 };
