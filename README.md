@@ -31,10 +31,10 @@ const Samuel = {
 
 <div align="center">
   <h3>Languages & Frameworks</h3>
-  <img src="https://skillicons.dev/icons?i=js,nodejs,typescript,python,java,spring,cpp,cs,dotnet,html,css,react,vue,angular,tailwind" />
+  <img src="https://skillicons.dev/icons?i=js,nodejs,typescript,python,java,spring,cpp,cs,dotnet,html,css,react,vue,angular,tailwind,nextjs,dart,flutter" />
   
   <h3>Tools & Databases</h3>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,git,github,docker,notion,figma,vscode,linux,bash" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,git,github,docker,notion,figma,vscode,linux,bash" />
 </div>
 
 <div align="center">
