@@ -7,8 +7,8 @@ const Samuel = {
   role: "Software Engineer",
   focus: "Full Stack Development",
   current: [
-    "Researching about ML & LLM",
-    "Building cross-platform mobile apps with Flutter"
+    "Researching about LLMS (Python)",
+    "Learning & Building cross-platform mobile apps with Dart"
   ]
 };
 ```
