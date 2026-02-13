@@ -8,7 +8,8 @@ const Samuel = {
   focus: "Full Stack Development",
   current: [
     "Researching about LLMS (Python)",
-    "Learning & Building cross-platform mobile apps with Dart"
+    "Learning & Building cross-platform mobile apps with Dart",
+    "Not giving up with life :'["
   ]
 };
 ```
