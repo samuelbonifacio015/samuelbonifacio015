@@ -28,6 +28,14 @@ const Samuel = {
 <a href="mailto:samuelbonifacio019@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" /></a>
 <a href="https://www.linkedin.com/in/samuelbonifacio015/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BFxu5Jm6MQU2szDeuwmZmyQ%3D%3D" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 
+## Contributions
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=samuelbonifacio015&theme=material-palenight" 
+    alt="https://github.com/samuelbonifacio015" />
+</div>
+<hr>
+
 ## Tech Stack
 
 <div align="center">
