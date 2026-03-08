@@ -8,7 +8,7 @@ const Samuel = {
   focus: "Full Stack Development",
   current: [
     "Researching about LLMS (Python)",
-    "Learning & Building cross-platform mobile apps with Kotlin",
+    "Learning & Building cross-platform mobile apps with Kotlin & Dart",
     "Not giving up with life :'["
   ]
 };
