@@ -7,8 +7,8 @@ const Samuel = {
   role: "Software Engineer",
   focus: "Full Stack Development",
   current: [
-    "Researching about LLMS (Python)",
-    "Learning & Building cross-platform mobile apps with Kotlin & Dart",
+    "Researching about Openclaw",
+    "Building cross-platform mobile apps with Kotlin & Dart",
     "Not giving up with life :'["
   ]
 };
