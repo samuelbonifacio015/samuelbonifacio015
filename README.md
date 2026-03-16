@@ -30,11 +30,11 @@ const Samuel = {
 
 ## Contributions
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=samuelbonifacio015&theme=material-palenight" 
-    alt="https://github.com/samuelbonifacio015" />
+<div align="center">  
+  <img src="https://github-readme-stats.vercel.app/api?username=samuelbonifacio015&show_icons=true&bg_color=0d0d0d&title_color=ff69b4&text_color=ffffff&icon_color=ff69b4&border_color=ff69b4&border_radius=8"/>
+  <br> 
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=samuelbonifacio015&theme=material-palenight"/> 
 </div>
-<hr>
 
 ## Tech Stack
 
