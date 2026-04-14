@@ -7,9 +7,9 @@ const Samuel = {
   role: "Software Engineer",
   focus: "Full Stack Development",
   current: [
-    "Researching about Openclaw",
+    "Researching about Claude Code practices",
     "Building cross-platform mobile apps with Kotlin & Dart",
-    "Not giving up with life :'["
+    "Improving my Obsidian vault as my second brain"
   ]
 };
 ```
