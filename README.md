@@ -46,7 +46,7 @@ const Samuel = {
   <img src="https://skillicons.dev/icons?i=js,nodejs,typescript,python,django,java,spring,cpp,cs,dotnet,html,css,react,vue,angular,tailwind,nextjs,dart,flutter,kotlin,astro" />
   
   <h3>Tools & Databases</h3>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,git,github,docker,notion,figma,vscode,linux,bash,postman" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,git,github,docker,notion,figma,vscode,linux,bash,postman,obsidian" />
 </div>
 
 <div align="center">
