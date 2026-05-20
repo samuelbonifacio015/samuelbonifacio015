@@ -7,8 +7,9 @@ const Samuel = {
   role: "Software Engineer",
   focus: "Full Stack Development",
   current: [
-    "Researching about Hermes Agent",
-    "Building cross-platform mobile apps with Kotlin & Dart",
+    "Improving my workflow automatization with Hermes Agent",
+    "Building Klippr with JetPack Compose (Kotlin)",
+    "Developing a E-commerce app with Next.js"
     "Improving my Obsidian vault as my second brain",
   ]
 };
