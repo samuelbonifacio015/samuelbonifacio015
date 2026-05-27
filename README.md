@@ -9,7 +9,7 @@ const Samuel = {
   current: [
     "Improving my workflow automatization with Hermes Agent",
     "Building Klippr with JetPack Compose (Kotlin)",
-    "Developing a E-commerce app with Next.js"
+    "Building LlamIA (personal startup)"
     "Improving my Obsidian vault as my second brain",
   ]
 };
